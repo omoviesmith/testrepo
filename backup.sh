@@ -18,8 +18,8 @@ targetDirectory=$1
 destinationDirectory=$2
 
 # [TASK 2]
-echo "The target directory is $1"
-echo "The destination directory is $2"
+echo "The target directory is targetDirectory"
+echo "The destination directory is destinationDirectory"
 
 # [TASK 3]
 currentTS=`date +%s`
